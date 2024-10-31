@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://fashionmodel.me/sitemap.xml

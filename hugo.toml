@@ -1,16 +1,18 @@
-baseURL = "https://phpstack-1337489-4984604.cloudwaysapps.com/"
+baseURL = "https://fashionmodel.me/"
 title = "fashionmodel.me"
 theme = "PaperMod"
 enableRobotsTXT = true
 
 [params]
   description = "FashionModel.me offers personalized email addresses with the exclusive fashionmodel.me domain. Stand out with a unique and stylish email address that reflects your passion for fashion and modeling. Secure your custom email today and make a statement with every message you send."
+  keywords = ["fashion", "modeling", "personalized email"]  # SEO keywords
   author = "Me"
   defaultTheme = "auto"
+  env = "production"
 
   social = [
-    {name = "Twitter", url = "https://twitter.com/yourhandle"},
-    {name = "LinkedIn", url = "https://linkedin.com/in/yourprofile"}
+    {name = "Twitter", url = "https://x.com/crizazemodels"},
+    {name = "LinkedIn", url = "https://www.linkedin.com/company/crizazemodels/"}
   ]
 
 [[menu.main]]
@@ -18,4 +20,3 @@ enableRobotsTXT = true
   name = "Premium Email Addresses"
   url = "/premium/"
   weight = 1
-
